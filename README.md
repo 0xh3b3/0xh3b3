@@ -1,9 +1,10 @@
-```txt
+```
 [ system.boot ]
 user: lostsec
 mode: curious
 focus: security · research · understanding
 status: learning continuously
+```
 
 
 This fits the image perfectly.
@@ -21,7 +22,7 @@ The frog image should be:
 
 Example placement idea:
 
-```html
+```
 <img align="right" width="220" src="assets/frog-avatar.png">
 
 

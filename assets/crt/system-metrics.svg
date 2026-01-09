@@ -1,0 +1,24 @@
+<svg width="900" height="110" viewBox="0 0 900 110"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <filter id="crtGlow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="100%" height="100%" fill="#0A0F0C"/>
+
+  <text x="50%" y="65%"
+        text-anchor="middle"
+        font-family="Fira Code, monospace"
+        font-size="42"
+        fill="#4FFFB0"
+        filter="url(#crtGlow)">
+    [ SYSTEM.METRICS ]
+  </text>
+</svg>

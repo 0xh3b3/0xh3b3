@@ -15,8 +15,6 @@
   <img src="assets/crt/profile.svg" width="90%" />
 </p>
 
-<img align="right" width="220" src="assets/frog-avatar.png" alt="frog mascot"/>
-
 ```txt
 [ system.boot ]
 
@@ -43,6 +41,9 @@ status    : learning continuously
 <p align="center">
   <img src="assets/crt/toolkit.svg" width="90%" />
 </p>
+
+
+<img align="right" width="100" src="assets/frog-avatar.png" alt="frog mascot"/>
 
 <details> <summary>▌ Programming</summary>
 <p align="left">

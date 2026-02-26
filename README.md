@@ -100,7 +100,7 @@ drwx------  3 0xh3b3 0xh3b3  4096 Jan  9 10:54  ..
 -rwxr-xr-x  1 0xh3b3 0xh3b3 16152 Jan  6 13:37  BugBountyHunting
 -rw-------  1 0xh3b3 0xh3b3  1761 Jan  7 16:59  .ReverseEngeneering
 
-lostsec@cyber:~$ exit
+0xh3b3@cyber:~$ exit
 logout
 ```
 

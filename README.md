@@ -11,6 +11,7 @@
 </p>
 
 ---
+
 <p align="center">
   <img src="assets/crt/profile.svg" width="90%" />
 </p>
@@ -22,8 +23,7 @@ identity  : 0xh3b3
 role      : cyber security researcher
 interest  : hacking · philosophy · psychology
 approach  : curiosity
-status    : learning continuously
-
+status    : learning continuously ▌
 ```
 
 <p align="center">
@@ -32,16 +32,15 @@ status    : learning continuously
 
 <img align="right" width="300" src="assets/hacked.gif" alt="frog mascot"/>
 
-- [X] 🐸exploring real-world vulnerabilities 
-- [ ] 🐸writing small internal tools & scripts
-- [ ] 🐸Kernel Exploitation & malware creation
-- [ ] 🐸expanding into mobile & web3 security
-- [ ] 🐸building a brand
+- [X] 🐸 exploring real-world vulnerabilities
+- [ ] 🐸 writing small internal tools & scripts
+- [ ] 🐸 Kernel Exploitation & malware creation
+- [ ] 🐸 expanding into mobile & web3 security
+- [ ] 🐸 building a brand
 
 <p align="center">
   <img src="assets/crt/toolkit.svg" width="90%" />
 </p>
-
 
 <img align="right" width="100" src="assets/frog-avatar.png" alt="frog mascot"/>
 
@@ -57,19 +56,17 @@ status    : learning continuously
 </details>
 
 <details> <summary>▌ Tools</summary>
-<div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
-  	<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  	<img src="https://img.shields.io/badge/sqlmap-000000?style=for-the-badge" />
-  	<img src="https://img.shields.io/badge/ffuf-000000?style=for-the-badge" />
-  	<img src="https://img.shields.io/badge/Ghidra-A80000?style=for-the-badge" />
-  	<img src="https://img.shields.io/badge/Binary%20Ninja-2E3440?style=for-the-badge" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/sqlmap-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ffuf-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ghidra-A80000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Binary%20Ninja-2E3440?style=for-the-badge" />
 </p>
-  </div>
-</div>
 </details>
 
 <details> <summary>▌ Environment</summary>
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -80,7 +77,6 @@ status    : learning continuously
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" />
 </p>
-
 </details>
 
 <p align="center">
@@ -88,6 +84,9 @@ status    : learning continuously
 </p>
 
 ```
+● ● ●  0xh3b3@cyber  ~  bash
+────────────────────────────────────────
+
 0xh3b3@cyber:~$ whoami
 0xh3b3
 
@@ -99,10 +98,9 @@ drwxr-xr-x  3 0xh3b3 0xh3b3 16384 Jan  9 10:31  .
 drwx------  3 0xh3b3 0xh3b3  4096 Jan  9 10:54  ..
 -rw-r--r--  1 0xh3b3 0xh3b3 30061 Jan  9 08:42  EthicalHacking&Pentesting
 -rwxr-xr-x  1 0xh3b3 0xh3b3 16152 Jan  6 13:37  BugBountyHunting
--rw-------  1 0xh3b3 0xh3b3  1761 Jan  7 16:59  .ReverseEngeneering
+-rw-------  1 0xh3b3 0xh3b3  1761 Jan  7 16:59  .ReverseEngineering
 
-0xh3b3@cyber:~$ exit
-logout
+0xh3b3@cyber:~$ █
 ```
 
 <p align="center">
@@ -131,16 +129,22 @@ logout
   <img src="assets/crt/philosophy.svg" width="90%" />
 </p>
 
->*“Cogito Ergo Sum.”*
-
->*"I am Froggy 🐸"*
-
+```txt
+╔══════════════════════════════════════╗
+║                                      ║
+║   "Cogito Ergo Sum."                 ║
+║                                      ║
+║   "I am Froggy 🐸"                  ║
+║                                      ║
+║   // Descartes · 0xh3b3              ║
+║                                      ║
+╚══════════════════════════════════════╝
+```
 
 <p align="center">
   <img src="assets/banner2.jpg" width="100%" alt="soft cyber banner"/>
 </p>
 
-<p align="center"> 🐸 </p> 
-
+<p align="center"> 🐸 </p>
 
 

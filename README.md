@@ -13,7 +13,7 @@
 ---
 
 <p align="center">
-  <img src="assets/crt/profile.svg" width="90%" />
+  <img src="assets/crt/profile.svg" width="100%" />
 </p>
 
 ```txt
@@ -27,7 +27,7 @@ status    : learning continuously ▌
 ```
 
 <p align="center">
-  <img src="assets/crt/current-state.svg" width="90%" />
+  <img src="assets/crt/current-state.svg" width="100%" />
 </p>
 
 <img align="right" width="300" src="assets/hacked.gif" alt="frog mascot"/>
@@ -39,7 +39,7 @@ status    : learning continuously ▌
 - [ ] 🐸 building a brand
 
 <p align="center">
-  <img src="assets/crt/toolkit.svg" width="90%" />
+  <img src="assets/crt/toolkit.svg" width="100%" />
 </p>
 
 <img align="right" width="100" src="assets/frog-avatar.png" alt="frog mascot"/>
@@ -80,7 +80,7 @@ status    : learning continuously ▌
 </details>
 
 <p align="center">
-  <img src="assets/crt/terminal-session.svg" width="90%" />
+  <img src="assets/crt/terminal-session.svg" width="100%" />
 </p>
 
 ```
@@ -102,43 +102,32 @@ drwx------  3 0xh3b3 0xh3b3  4096 Jan  9 10:54  ..
 
 0xh3b3@cyber:~$ █
 ```
-
 <p align="center">
-  <img src="assets/crt/system-metrics.svg" width="90%" />
+  <img src="assets/crt/system-metrics.svg" width="100%" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=0xh3b3&theme=transparent&hide_border=true&title_color=4FFFB0&text_color=9AF5C3"
-    width="45%"
-  />
   <img
     src="https://streak-stats.demolab.com?user=0xh3b3&theme=transparent&hide_border=true&ring=4FFFB0&fire=4FFFB0&currStreakLabel=9AF5C3"
     width="45%"
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=0xh3b3&layout=compact&theme=transparent&hide_border=true&title_color=4FFFB0&text_color=9AF5C3"
-    width="45%"
-  />
-</p>
 
 <p align="center">
-  <img src="assets/crt/philosophy.svg" width="90%" />
+  <img src="assets/crt/philosophy.svg" width="100%" />
 </p>
 
 ```txt
-╔══════════════════════════════════════╗
-║                                      ║
-║   "Cogito Ergo Sum."                 ║
-║                                      ║
-║   "I am Froggy 🐸"                  ║
-║                                      ║
-║   // Descartes · 0xh3b3              ║
-║                                      ║
-╚══════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                                                      ║
+║   "Cogito Ergo Sum."                                                                                                 ║
+║                                                                                                                      ║
+║   "I am Froggy 🐸"                                                                                                   ║
+║                                                                                                                      ║
+║   // Descartes · 0xh3b3                                                                                              ║
+║                                                                                                                      ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <p align="center">
